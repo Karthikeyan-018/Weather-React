@@ -1,6 +1,6 @@
 # Weather Website
 
-This is a weather website built using HTML, CSS, JavaScript, React, and the OpenWeather API. The website provides real-time weather information for different locations worldwide. Users can search for a specific location, view current weather conditions, and get a 5-day forecast. The website offers a user-friendly interface and displays weather data in a visually appealing manner.
+This is a weather website built using HTML, CSS, JavaScript, React, and the OpenWeather API. The website provides real-time weather information for different locations worldwide. Users can search for a specific location, view current weather conditions. The website offers a user-friendly interface and displays weather data in a visually appealing manner.
 
 ![image](https://github.com/Karthikeyan-018/Weather-React/assets/78362595/7c4cfbab-59cd-4da0-ad5f-7940cd7ac390)
 
